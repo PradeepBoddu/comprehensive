@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T17:40:24 IST" name="Suite" finished-at="2022-05-18T17:42:11 IST" duration-ms="107336">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T17:40:24 IST" name="Test" finished-at="2022-05-18T17:42:11 IST" duration-ms="107336">
+      <class name="com.comprehen.testCases.study">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.study@1af2d44a]" started-at="2022-05-18T17:41:28 IST" name="setup" finished-at="2022-05-18T17:41:31 IST" duration-ms="3682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.study@1af2d44a]" started-at="2022-05-18T17:41:28 IST" name="extent" finished-at="2022-05-18T17:41:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method signature="study1()[pri:0, instance:com.comprehen.testCases.study@1af2d44a]" started-at="2022-05-18T17:41:31 IST" name="study1" finished-at="2022-05-18T17:41:34 IST" duration-ms="2439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- study1 -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.study@1af2d44a]" started-at="2022-05-18T17:41:34 IST" name="get" finished-at="2022-05-18T17:41:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=study1 status=SUCCESS method=study.study1()[pri:0, instance:com.comprehen.testCases.study@1af2d44a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.study@1af2d44a]" started-at="2022-05-18T17:41:34 IST" name="tearDown" finished-at="2022-05-18T17:41:34 IST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.study -->
+      <class name="com.comprehen.testCases.Titlepage">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:40 IST" name="extent" finished-at="2022-05-18T17:40:40 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:40 IST" name="setup" finished-at="2022-05-18T17:40:43 IST" duration-ms="3476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="gift()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:43 IST" name="gift" finished-at="2022-05-18T17:40:48 IST" duration-ms="4968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gift -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:48 IST" name="get" finished-at="2022-05-18T17:40:48 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=gift status=SUCCESS method=Titlepage.gift()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="title()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:48 IST" name="title" finished-at="2022-05-18T17:40:49 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:49 IST" name="get" finished-at="2022-05-18T17:40:49 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=title status=SUCCESS method=Titlepage.title()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="urbanStore()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:49 IST" name="urbanStore" finished-at="2022-05-18T17:40:58 IST" duration-ms="9615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urbanStore -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:58 IST" name="get" finished-at="2022-05-18T17:40:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=urbanStore status=SUCCESS method=Titlepage.urbanStore()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.Titlepage@6cd28fa7]" started-at="2022-05-18T17:40:58 IST" name="tearDown" finished-at="2022-05-18T17:40:59 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.Titlepage -->
+      <class name="com.comprehen.testCases.Home">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:40:59 IST" name="extent" finished-at="2022-05-18T17:40:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:40:59 IST" name="setup" finished-at="2022-05-18T17:41:03 IST" duration-ms="3899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="page()[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:41:03 IST" name="page" finished-at="2022-05-18T17:41:10 IST" duration-ms="6400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:41:10 IST" name="get" finished-at="2022-05-18T17:41:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=page status=SUCCESS method=Home.page()[pri:0, instance:com.comprehen.testCases.Home@614ca7df] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="scroll()[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:41:10 IST" name="scroll" finished-at="2022-05-18T17:41:15 IST" duration-ms="5720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:41:15 IST" name="get" finished-at="2022-05-18T17:41:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scroll status=SUCCESS method=Home.scroll()[pri:0, instance:com.comprehen.testCases.Home@614ca7df] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.Home@614ca7df]" started-at="2022-05-18T17:41:15 IST" name="tearDown" finished-at="2022-05-18T17:41:16 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.Home -->
+      <class name="com.comprehen.testCases.Credentials">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.Credentials@611889f4]" started-at="2022-05-18T17:40:24 IST" name="extent" finished-at="2022-05-18T17:40:24 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.Credentials@611889f4]" started-at="2022-05-18T17:40:24 IST" name="setup" finished-at="2022-05-18T17:40:28 IST" duration-ms="4518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getexcel()[pri:0, instance:com.comprehen.testCases.Credentials@611889f4]" started-at="2022-05-18T17:40:28 IST" name="getexcel" finished-at="2022-05-18T17:40:38 IST" duration-ms="9404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getexcel -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Credentials@611889f4]" started-at="2022-05-18T17:40:38 IST" name="get" finished-at="2022-05-18T17:40:38 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getexcel status=SUCCESS method=Credentials.getexcel()[pri:0, instance:com.comprehen.testCases.Credentials@611889f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.Credentials@611889f4]" started-at="2022-05-18T17:40:38 IST" name="tearDown" finished-at="2022-05-18T17:40:40 IST" duration-ms="1802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.Credentials -->
+      <class name="com.comprehen.testCases.Login">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.Login@4738a206]" started-at="2022-05-18T17:41:16 IST" name="extent" finished-at="2022-05-18T17:41:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.Login@4738a206]" started-at="2022-05-18T17:41:16 IST" name="setup" finished-at="2022-05-18T17:41:20 IST" duration-ms="3943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login1()[pri:0, instance:com.comprehen.testCases.Login@4738a206]" started-at="2022-05-18T17:41:20 IST" name="login1" finished-at="2022-05-18T17:41:27 IST" duration-ms="6738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Login@4738a206]" started-at="2022-05-18T17:41:27 IST" name="get" finished-at="2022-05-18T17:41:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login1 status=SUCCESS method=Login.login1()[pri:0, instance:com.comprehen.testCases.Login@4738a206] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.Login@4738a206]" started-at="2022-05-18T17:41:27 IST" name="tearDown" finished-at="2022-05-18T17:41:28 IST" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.Login -->
+      <class name="com.comprehen.testCases.Signin">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.Signin@18d87d80]" started-at="2022-05-18T17:41:34 IST" name="extent" finished-at="2022-05-18T17:41:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.Signin@18d87d80]" started-at="2022-05-18T17:41:34 IST" name="setup" finished-at="2022-05-18T17:41:38 IST" duration-ms="3094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sign()[pri:0, instance:com.comprehen.testCases.Signin@18d87d80]" started-at="2022-05-18T17:41:38 IST" name="sign" finished-at="2022-05-18T17:41:57 IST" duration-ms="19856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Signin@18d87d80]" started-at="2022-05-18T17:41:57 IST" name="get" finished-at="2022-05-18T17:41:57 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sign status=SUCCESS method=Signin.sign()[pri:0, instance:com.comprehen.testCases.Signin@18d87d80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.Signin@18d87d80]" started-at="2022-05-18T17:41:57 IST" name="tearDown" finished-at="2022-05-18T17:41:58 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.Signin -->
+      <class name="com.comprehen.testCases.Privacy">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.comprehen.testCases.Privacy@618425b5]" started-at="2022-05-18T17:41:58 IST" name="extent" finished-at="2022-05-18T17:41:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.comprehen.testCases.Privacy@618425b5]" started-at="2022-05-18T17:41:58 IST" name="setup" finished-at="2022-05-18T17:42:02 IST" duration-ms="3690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="policy()[pri:0, instance:com.comprehen.testCases.Privacy@618425b5]" started-at="2022-05-18T17:42:02 IST" name="policy" finished-at="2022-05-18T17:42:10 IST" duration-ms="8463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policy -->
+        <test-method is-config="true" signature="get(org.testng.ITestResult)[pri:0, instance:com.comprehen.testCases.Privacy@618425b5]" started-at="2022-05-18T17:42:10 IST" name="get" finished-at="2022-05-18T17:42:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=policy status=SUCCESS method=Privacy.policy()[pri:0, instance:com.comprehen.testCases.Privacy@618425b5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.comprehen.testCases.Privacy@618425b5]" started-at="2022-05-18T17:42:10 IST" name="tearDown" finished-at="2022-05-18T17:42:11 IST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.comprehen.testCases.Privacy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
